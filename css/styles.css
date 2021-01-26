@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+}
+h1 {
+  margin: 0 auto 0 auto;
+  font-size: 5.62rem; /* 100% = 16px = 1 em = 1 rem(root em)*/
+  font-family: 'Dancing Script', cursive;
+  color : #66BFBF;
+}
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 2.5rem;
+  color : #66BFBF;
+  font-weight: normal;
+}
+h3 {
+  color : #11999E;
+}
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+p {
+  color: #40514E;
+}
+hr {
+  border:none;
+  border-top: 10px dotted #EAF6F6;
+  border-bottom: 0px;
+  width: 5%;
+}
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 200px;
+  position: relative;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  line-height: 20px;
+  margin-top: 20px;
+  padding: 35px;
+}
+.skill-row{
+  width: 50%;
+  margin: 50px auto 120px auto;
+  text-align: left;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  top: 450px;
+}
+.bilgisayar-resim{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+.biber-resim{
+  width: 25%;
+  float: right;
+}
+.profil-resim{
+  width: 12%;
+  padding-top: 20px;
+}
+.footer-link{
+  padding: 15px;
+  color: #11999E;
+}
+.sonyazi{
+  color: #EAF6F6;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
